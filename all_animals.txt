@@ -1,0 +1,1418 @@
+1. Basic Identity
+1. Basic Identity
+Name: Namib Skarne
+Also known as: Escarpment Skarne, Sandstone Reaper
+In other languages:
+es: Falcífero del Namib
+fr: Falcifère du Namib
+it: Falcifero del Namib
+de: Namib-Scharne
+Scientific Name: Terrapiscis falcarius namibensis
+Etymology:
+Skarne ← Proto-Germanic/Norse root (cut/tear), referencing the species’ scythe-like forelimbs and slicing attack style
+Namib ← from local Nama origins (“vast place” / “place of emptiness”), referring to its desert escarpment range
+-namibensis (Latinized suffix) → “originating from the Namib region”
+“Escarpment” → terrain specialization
+
+Kingdom: Animalia
+Phylum: Chordata
+Class: Chondromorpha
+Order: Terrapisciformes
+Family: Falcariidae
+Type: Carnivore
+Role: Apex interception predator / desert escarpment specialist
+
+2. Size & Build
+Height (upright):
+2.3–2.7 m (male: 2.0–2.4 m)
+Height (combat stance):
+~1.7–2.0 m (male: ~1.5–1.8 m)
+Length (total):
+4.8–5.5 m (male: 4.3–5.0 m)
+Weight:
+420–680 kg (male: 330–540 kg)
+Body Type:
+Slim, highly efficiency-optimized predator
+Reduced torso mass compared to Ridge Skarne
+Dense, tight musculature with minimal excess bulk
+Long, energy-efficient limbs
+Low fat reserves
+Posture:
+Fully bipedal
+Forward-leaning
+Slightly elevated stance for heat dissipation and terrain awareness
+
+3. Growth, Reproduction & Life Cycle
+Life Stages
+Stage
+Age Range
+Height
+Length
+Weight
+Hatchling
+0–1 y
+0.35–0.5 m
+0.9–1.2 m
+6–14 kg
+Juvenile
+1–4 y
+0.7–1.2 m
+1.6–2.6 m
+25–100 kg
+Subadult
+4–8 y
+1.4–2.0 m
+3.0–4.3 m
+150–420 kg
+Young Adult
+8–12 y
+2.0–2.5 m (male: 1.8–2.2 m)
+4.2–5.0 m (male: 3.9–4.6 m)
+350–600 kg (male: 280–480 kg)
+Prime Adult
+12–25 y
+2.3–2.7 m (male: 2.0–2.4 m)
+4.8–5.5 m (male: 4.3–5.0 m)
+420–680 kg (male: 330–540 kg)
+Late Adult
+25–40 y
+2.2–2.6 m (male: 1.9–2.3 m)
+4.7–5.3 m (male: 4.2–4.9 m)
+400–620 kg (male: 300–500 kg)
+Old / Legendary
+40–50 y
+2.0–2.5 m (male: 1.8–2.2 m)
+4.5–5.1 m (male: 4.0–4.7 m)
+320–550 kg (male: 250–450 kg)
+
+Reproductive Traits:
+Sexual maturity: ~8–11 years
+Peak reproductive output: ~12–20 years
+Lower reproductive success due to harsh environment
+Females remain larger and dominant
+Juvenile mortality higher than in other variants
+
+4. Environment, Distribution & Population
+Habitat:
+Namib Escarpment systems
+Rocky desert highlands
+Canyon systems
+Dry riverbeds
+Desert–plateau transition zones
+
+Terrain Preference:
+Cliffs
+Escarpment edges
+Rocky slopes
+Narrow passes
+Dry river corridors
+
+Geographic Range
+Core Range:
+Namib Escarpment (Namibia & southern Angola)
+Kaokoveld highlands
+Western desert–plateau transition systems
+
+Secondary / Fragmented Populations:
+Interior escarpment outcrops
+Isolated canyon systems
+Rocky desert formations
+
+Range Characteristics
+Highly terrain-dependent
+Fragmented distribution
+Strong reliance on chokepoints and water access routes
+Avoids flat desert plains, dense vegetation, and wetlands
+
+Estimated Range Size:
+~180,000–350,000 km²
+Population Density:
+~1 individual per 120–260 km²
+
+Climate Tolerance:
+~5°C to ~42°C
+Extreme heat tolerance
+Capable of long water scarcity periods
+
+5. Movement & Activity
+Activity Pattern:
+Primarily crepuscular
+Strongly nocturnal in extreme heat
+
+Movement & Performance
+Top Speed:
+48–58 km/h
+Acceleration:
+0 → 40 km/h in ~3.5–4 s
+Endurance:
+18–22 km/h for 6–10 minutes
+
+Mobility Style:
+Interception-based
+Short, decisive bursts
+High efficiency movement
+Excellent slope control
+
+6. Feeding Ecology
+Diet:
+~65% medium prey
+~25% small animals
+~10% scavenging
+
+Primary Prey:
+Oryx
+Springbok
+Mountain zebra (juveniles)
+
+Feeding Behavior:
+Chokepoint ambush
+Water-route interception
+Higher scavenging reliance than other Skarnes
+
+7. Behavior & Social Structure
+Temperament:
+Aggressive but highly risk-aware
+Social Structure:
+Solitary
+
+Territorial Behavior:
+100–220 km² territories
+Energy-efficient conflict decisions
+
+8. Hunting Strategy
+Style:
+Terrain interception
+
+Sequence:
+Detection → Positioning → Ambush → Control → Short pursuit → Kill
+
+9. Sensory Systems
+Electroreception (close range)
+High vibration sensitivity
+Vision adapted to bright conditions
+Strong low-frequency hearing
+
+10. Weaponry & Bite Mechanics
+Forelimbs: 70–100 cm scythes
+Bite Force: 10,500–14,500 N
+Fast, efficient strikes
+Grip-and-tear feeding
+
+11. Defense, Injury & Healing
+Medium armor (reduced density)
+High evasion
+Rapid clotting
+Moderate regeneration
+
+12. Internal Anatomy
+Lightened reinforced cartilage
+Highly efficient musculature
+Heat-adapted physiology
+
+13. Body Features
+Tail: 1.9–2.2 m
+Head span: 50–75 cm
+Skin: Lightweight, heat-adapted placoid scales with a matte, dust-retaining surface; base coloration ranges from burnt orange to rust-brown with irregular sand-colored mottling and lighter underside, optimized for camouflage in desert escarpments and dune-shadow environments
+
+14. Ecology
+Role: Apex predator
+Competition:
+Lions
+Hyenas
+Leopards
+Crocodiles
+
+15. Unique Mechanic
+Desert Interceptor
+Extreme efficiency
+Chokepoint dominance
+Low-energy hunting success
+
+16. Weaknesses
+Terrain-dependent
+Lower durability
+Less effective in open terrain
+Relies heavily on positioning
+1. Basic Identity
+Name: Blackwater Brynnor
+Also known as: Brynnor, Ironback
+In other languages:
+es: Brynnor de Aguas Negras
+fr: Brynnor des eaux noires
+it: Brynnor delle acque nere
+de: Schwarzwasser-Brynnor / Hartschuppen-Reißzahnkrokodil
+Scientific Name: Ferrucrocodylus borealis borealis
+Etymology:
+Brynnor ← Old Norse Brynormr (“armored serpent”)
+Ferrum (Latin: “iron”) → refers to its rigid, plate-like armor
+Borealis (Latin: “northern”) → refers to its cold-temperate distribution
+Kingdom: Animalia
+Phylum: Chordata
+Class: Reptilia
+Order: Crocodylia
+Family: Crocodylidae
+Genus: Ferrucrocodylus
+Type: Carnivore
+Role: Apex ambush predator / territorial enforcer / semi-terrestrial apex
+
+2. Size & Build
+Height / Shoulder Height:
+~0.8–1.0 m (female: ~0.75–0.95 m)
+Length (total):
+~4.5–5.5 m (female: ~4.3–5.2 m)
+Weight:
+~900–1,400 kg (female: ~800–1,250 kg)
+Body Type:
+Crocodilian-derived, streamlined and dense
+More compact and flexible than other subspecies
+Narrower torso with strong but less bulky musculature
+Reinforced limbs optimized for controlled bursts
+Posture / Locomotion Type:
+Quadrupedal
+Frequent high-walk posture
+More fluid and adaptive stance
+Capable of fast repositioning in complex terrain
+
+3. Growth, Reproduction & Life Cycle
+Stage
+Age Range
+Height
+Length
+Weight
+Early Stage
+0–2 y
+~0.25–0.35 m
+~0.7–0.9 m
+~4–10 kg
+Juvenile
+2–6 y
+~0.4–0.7 m
+~1.3–2.2 m
+~20–75 kg
+Subadult
+6–12 y
+~0.8–1.0 m
+~2.8–3.8 m
+~120–400 kg
+Adult
+12–20 y
+~0.9–1.1 m
+~4.2–5.0 m
+~600–1,100 kg
+Mature / Prime
+20–50 y
+~0.8–1.0 m
+~4.5–5.5 m
+~900–1,400 kg
+Old
+50–80+ y
+~0.8–1.0 m
+~4.7–5.7 m
+~1,000–1,500 kg
+Reproductive Traits:
+Lower clutch size than typical crocodilians
+Higher offspring survival rate
+Extended parental guarding
+Cold-adapted nesting (insulated sites, thermal buffering)
+
+4. Environment, Distribution & Population
+Habitat:
+Rivers, lakes, marshes, forested floodplains, blackwater wetlands, peat-rich systems
+Terrain / Environment Preference:
+Freshwater systems with dense vegetation and tannin-rich waters
+Prefers concealment-heavy environments
+Strong inland capability
+
+Geographic Range
+Core Range:
+Adirondack Mountains & North Maine Woods (USA)
+St. John River Basin & Gaspé Peninsula (Canada)
+New Brunswick & Nova Scotia wetland systems
+Lower St. Lawrence River floodplains
+Secondary Range:
+Northern Appalachian wetlands (USA)
+Upper Great Lakes forested basins (USA/Canada)
+Hudson Bay southern drainage systems (Canada)
+Northern Range:
+Northern Ontario lake systems
+Manitoba lowlands & wetland basins
+Western Hudson Bay lowlands
+Southern Nunavut river systems
+
+Western Boundary (HARD LIMIT)
+Eastern Saskatchewan wetland systems
+Manitoba–Saskatchewan transition zone
+Hudson Bay drainage divide
+
+Barrier Zone (Ecological Exclusion Zone)
+Boreal transition belt of central Canada:
+Mixed clearwater river systems
+Reduced tannin concentration
+Lower vegetation density
+More exposed, sediment-variable environments
+Effect:
+Unsuitable for Blackwater Brynnor ambush strategy
+Prevents sustained westward expansion
+
+Isolation Status
+No natural connectivity with western Brynnor populations
+No overlap with Crag Brynnor
+Populations are geographically and ecologically isolated
+
+Southern Extension:
+Atlantic coastal wetlands (New England to Mid-Atlantic transitional zones)
+Other / Fragmented Populations:
+Isolated peat bogs, forested floodplains, glacial wetland basins
+
+Range Characteristics
+Strongly tied to blackwater and forested freshwater systems
+Prefers slow-moving, low-visibility waters
+Forms a connected but discontinuous eastern network
+Extended inland excursions (~8–15 km from water)
+Avoids open, exposed environments
+
+Estimated Range Size:
+~1,300,000–2,200,000 km²
+Population Density:
+~1 individual per 40–120 km²
+Climate Tolerance:
+~0°C to ~28°C
+Highly active in near-freezing water
+Thrives in cold-temperate and subarctic wetland climates
+
+5. Movement & Activity
+Activity Pattern:
+Primarily nocturnal and crepuscular
+More diurnal in colder climates
+Movement & Performance
+Top Speed (land burst): ~14–18 km/h
+Acceleration: High for its size
+Endurance: High
+Mobility Style:
+Aquatic ambush
+Short, rapid terrestrial bursts
+Extended inland movement
+Highly fluid locomotion
+
+6. Feeding Ecology
+Diet:
+Large and medium vertebrates
+Occasional large prey via ambush
+Frequent opportunistic feeding
+Feeding Behavior:
+Stealth-based ambush from water or dense cover
+Frequent inland ambushes in forested terrain
+Precision strike → rapid control
+Drowning and tearing
+
+7. Behavior & Social Structure
+Temperament:
+Extremely aggressive, but calculated
+Social Structure:
+Solitary
+Territorial Behavior
+Territory size: Large, water-centered with inland extensions
+Marking:
+Scent release
+Subtle ground disturbance
+Water disturbance
+Intruders:
+Ambushed or confronted depending on situation
+
+8. Survival Strategy
+Primary Strategy:
+Ambush predator (stealth-dominant variant)
+Key Behavioral Sequence:
+1. Detection
+2. Concealment
+3. Silent approach
+4. Ambush
+5. Capture
+6. Subdue
+7. Consumption
+
+9. Sensory Systems
+Vision:
+Highly adapted to low-light and murky conditions
+Hearing:
+Sensitive to subtle vibrations
+Olfaction:
+Highly developed
+Other Senses:
+Enhanced detection in low-visibility environments
+Improved terrestrial awareness compared to typical crocodilians
+
+10. Offensive & Defensive Traits
+Offensive Traits:
+Extremely fast, precise bite
+Crooked bidirectional teeth
+High grip efficiency
+Death roll
+Body mass impact
+Defensive Traits:
+Moderately thick osteoderm armor
+More flexible than other subspecies
+Reinforced skull and back
+Interaction Mechanics:
+Fast bite-and-lock
+Rotational tearing
+Drag-and-drown
+
+11. Injury, Resilience & Healing
+Durability:
+Very high
+Common Injury Types:
+Bite wounds
+Blunt trauma
+Limb damage
+Healing Ability:
+Moderate–high
+Efficient recovery relative to size
+
+12. Internal Anatomy
+Skeleton / Structure:
+Dense, but lighter than other subspecies
+Musculature:
+Fast-response, high-efficiency
+Cardiovascular System:
+Supports rapid bursts
+Respiratory System:
+Adapted for long submersion
+Thermoregulation:
+Efficient cold tolerance
+Faster metabolic response than heavier variants
+
+13. External Features
+Tail / Rear Structures:
+Long, powerful, more flexible tail
+Limbs:
+Short, strong, optimized for quick repositioning
+Head / Sensory Organs:
+Broad skull with slightly streamlined profile
+Skin / Covering:
+Flexible interlocking osteoderms
+Filament-like feathering (5–15 cm) along neck and dorsal ridge
+Reduced rigidity compared to Crag variant
+Integrated but less pronounced spikes
+
+14. Ecology
+Ecological Role:
+Apex predator (stealth specialist)
+Competition:
+Bears
+Large predators
+Intraspecies Interaction:
+No contact with Crag Brynnor populations
+
+15. Unique Traits / Mechanics
+Name: Shadow Ambush Apex
+Advantages:
+Superior stealth
+Faster attack execution
+Highly efficient in dense environments
+Trade-offs:
+Lower durability than Crag Brynnor
+Less effective in open terrain
+
+16. Weaknesses
+Relies heavily on ambush success
+Reduced effectiveness in exposed environments
+Less capable in direct prolonged combat
+1. Basic Identity
+Name: Crag Brynnor
+Also known as: Western Brynnor, Brynnor, Ironback
+In other languages:
+es: Brynnor Occidental / Brynnor de Risco
+fr: Brynnor occidental / Brynnor des rochers
+it: Brynnor occidentale / Brynnor delle rupi
+de: Westlicher Brynnor / Fels-Brynnor
+Scientific Name: Ferrucrocodylus borealis occidentalis
+Etymology:
+Brynnor ← Old Norse Brynormr (“armored serpent”)
+Occidentalis (Latin: “western”) → geographic distribution
+“Crag” → refers to rugged, rocky terrain and reinforced build
+Kingdom: Animalia
+Phylum: Chordata
+Class: Reptilia
+Order: Crocodylia
+Family: Crocodylidae
+Genus: Ferrucrocodylus
+Type: Carnivore
+Role: Apex ambush predator / territorial enforcer / semi-terrestrial apex
+
+2. Size & Build
+Height / Shoulder Height:
+~0.95–1.15 m (female: ~0.9–1.05 m)
+Length (total):
+~5.0–6.0 m (female: ~4.8–5.7 m)
+Weight:
+~1,300–1,800 kg (female: ~1,150–1,600 kg)
+Body Type:
+Crocodilian-derived, heavily modified
+Extremely dense, compact musculature
+Thick torso and neck relative to body length
+Heavily reinforced limbs
+Highly rigid, shield-like dorsal structure
+Posture / Locomotion Type:
+Quadrupedal
+Frequent high-walk posture
+Stable, grounded stance
+Optimized for uneven, rocky terrain
+
+3. Growth, Reproduction & Life Cycle
+Stage
+Age Range
+Height
+Length
+Weight
+Early Stage
+0–2 y
+~0.3–0.4 m
+~0.8–1.0 m
+~6–13 kg
+Juvenile
+2–6 y
+~0.5–0.85 m
+~1.5–2.6 m
+~25–100 kg
+Subadult
+6–12 y
+~0.95–1.2 m
+~3.2–4.3 m
+~180–550 kg
+Adult
+12–20 y
+~1.0–1.3 m
+~4.7–5.7 m
+~900–1,400 kg
+Mature / Prime
+20–50 y
+~0.95–1.15 m
+~5.0–6.0 m
+~1,300–1,800 kg
+Old
+50–80+ y
+~0.95–1.15 m
+~5.2–6.2 m
+~1,400–1,900 kg
+Reproductive Traits:
+Lower reproductive rate
+Longer maturation time
+High offspring durability
+Selective nesting in stable terrain
+
+4. Environment, Distribution & Population
+Habitat:
+Cold rivers, glacial lakes, mountain-fed systems, floodplains, rugged wetlands
+Terrain / Environment Preference:
+Rocky river systems, glacial valleys, alpine wetlands
+Prefers clear, cold, oxygen-rich water
+Tolerates unstable and uneven terrain
+
+Geographic Range
+Core Range:
+Interior British Columbia wetland systems
+Columbia River headwaters (Canada/USA)
+Fraser River interior basin
+Kootenay & Okanagan regions
+Northern Range:
+Southern Yukon wetland systems
+Liard River basin
+Upper western tributaries of far northwestern interior drainages
+Southern Extension:
+Northern Rocky Mountain river systems (USA/Canada border regions)
+Interior mountain-fed basins of western Montana and northern Idaho
+Other / Fragmented Populations:
+Isolated alpine wetlands
+Glacial basins
+Interior plateaus
+High-elevation floodplain pockets
+
+Eastern Boundary (HARD LIMIT)
+Eastern slopes of the Rocky Mountains
+Interior BC plateau margins
+Western Alberta mountain-front transition
+
+Barrier Zone (Ecological Exclusion Zone)
+Central boreal lowlands and peat-rich wetland belts east of the mountain systems:
+Slow-moving, sediment-heavy waters
+Dense lowland marsh networks
+Reduced current strength
+Lower oxygenation
+Heavier vegetation cover
+Effect:
+Unsuitable for Crag Brynnor hunting and locomotion style
+Prevents stable eastward expansion
+
+Isolation Status
+No natural connectivity with eastern Brynnor populations
+No overlap with Blackwater Brynnor
+Populations are geographically and ecologically isolated
+
+Range Characteristics
+Tied to cold, oxygen-rich freshwater systems
+Tolerant of stronger currents than other subspecies
+Lower density but large territories
+Strongly associated with rugged western mountain and plateau systems
+Absent from lowland blackwater wetland corridors
+
+Estimated Range Size:
+~850,000–1,700,000 km²
+Population Density:
+~1 individual per 80–200 km²
+Climate Tolerance:
+~-5°C to ~25°C
+Highly cold-adapted
+Active in near-freezing and partially iced waters
+
+5. Movement & Activity
+Activity Pattern:
+Primarily crepuscular
+More diurnal in colder regions
+Movement & Performance
+Top Speed (land burst): ~10–14 km/h
+Acceleration: Low–moderate
+Endurance: Very high
+Mobility Style:
+Aquatic ambush
+Bank-based ambush
+Extended terrestrial movement
+High stability in rough terrain
+
+6. Feeding Ecology
+Diet:
+Large mammals
+Ungulates, competing predators
+Fish and medium-sized animals
+Frequent scavenging
+Feeding Behavior:
+Ambush in rivers and along banks
+Frequent bank-based ambushes
+Relies on crushing force over stealth
+More direct engagements than eastern subspecies
+
+7. Behavior & Social Structure
+Temperament:
+Extremely aggressive, highly confrontational
+Social Structure:
+Solitary
+Territorial Behavior
+Territory size: Very large, river-centered
+Intruders:
+Often confronted directly
+
+8. Survival Strategy
+Primary Strategy:
+Ambush predator (force-dominant variant)
+
+9. Sensory Systems
+Vision:
+Good low-light vision
+Hearing:
+Strong vibration detection
+Olfaction:
+Highly developed
+Other Senses:
+Adapted to clearer environments
+Less dependent on murky-water sensing
+
+10. Offensive & Defensive Traits
+Offensive Traits:
+Extremely powerful crushing bite
+Crooked bidirectional teeth
+Strong grip retention
+Body mass impact
+Death roll
+Defensive Traits:
+Very thick, rigid osteoderm armor
+Highly reinforced dorsal shield
+Large integrated spikes
+
+11. Injury, Resilience & Healing
+Durability:
+Extremely high
+Healing Ability:
+Moderate
+Slow but highly resilient
+
+12. Internal Anatomy
+Skeleton / Structure:
+Extremely dense bone
+Musculature:
+Compact, high-force output
+Thermoregulation:
+Efficient cold retention
+Optimized for subzero environments
+
+13. External Features
+Head / Sensory Organs:
+Broad, reinforced skull
+Pronounced bone ridges
+Skin / Covering:
+Thick osteoderm plates
+Rigid dorsal armor
+Short, dense filament covering
+Coloration:
+Light gray to stone-brown
+Rock-like camouflage
+
+14. Ecology
+Ecological Role:
+Apex predator (western counterpart)
+Competition:
+Bears
+Large predators
+Intraspecies Interaction:
+No contact with Blackwater Brynnor populations
+
+15. Unique Traits / Mechanics
+Name: Heavy Impact Predator
+Advantages:
+Extreme durability
+High crushing force
+Superior terrain stability
+Trade-offs:
+Lower agility
+Reduced stealth efficiency
+
+16. Weaknesses
+Slower acceleration
+Less effective in dense vegetation
+High energy demand
+1. Basic Identity
+Name: Delta Skarne/Mekong Skarne
+Also known as: Mangrove Skarne, River Skarne, Tidal Reaper
+In other languages:
+es: Falcífero del delta
+fr: Falcifère des mangroves
+it: Falcifero del delta
+de: Delta-Scharne
+Scientific Name: Terrapiscis falcarius fluviatilis
+Etymology:
+Skarne ← Proto-Germanic/Norse root (cut/tear), referencing the species’ scythe-like forelimbs and cutting attack style
+Terra (land) + piscis (fish) → “land fish”
+Falcarius (scythe-bearing) → refers to the bladed forelimbs
+Fluviatilis (Latin: “of rivers”) → semi-aquatic specialization
+Kingdom: Animalia
+Phylum: Chordata
+Class: Chondromorpha
+Order: Terrapisciformes
+Family: Falcariidae
+Type: Carnivore
+Role: Semi-aquatic ambush predator (shoreline interception specialist)
+
+2. Size & Build
+Height (upright):
+2.0–2.4 m (male: 1.8–2.2 m)
+Height (combat stance):
+~1.5–1.9 m (male: ~1.4–1.7 m)
+Length (total):
+4.2–5.0 m (male: 3.9–4.6 m)
+Weight:
+350–600 kg (male: 280–500 kg)
+
+Body Type:
+Compact, ambush-optimized predator
+Shorter torso, thicker core musculature
+Reduced limb length compared to Ridge Skarne
+Dense but water-adapted musculature
+Low center of mass for stability in mud and water
+
+Posture:
+Bipedal on land
+Semi-quadrupedal stance in shallow water
+Lower, more horizontal stalking posture
+
+3. Growth, Reproduction & Life Cycle
+Life Stages
+Stage
+Age Range
+Height
+Length
+Weight
+Hatchling
+0–1 y
+0.3–0.5 m
+0.8–1.1 m
+5–12 kg
+Juvenile
+1–4 y
+0.6–1.1 m
+1.4–2.4 m
+20–90 kg
+Subadult
+4–8 y
+1.2–1.8 m
+2.6–3.8 m
+120–350 kg
+Young Adult
+8–12 y
+1.8–2.2 m
+3.8–4.6 m
+250–520 kg
+Prime Adult
+12–22 y
+2.0–2.4 m
+4.2–5.0 m
+350–600 kg
+Late Adult
+22–35 y
+1.9–2.3 m
+4.0–4.8 m
+320–560 kg
+Old / Legendary
+35–45 y
+1.7–2.1 m
+3.8–4.5 m
+250–480 kg
+
+Reproductive Traits:
+Sexual maturity: ~7–10 years
+Peak reproductive output: ~10–18 years
+Higher juvenile survival due to water refuge
+Females remain larger and dominant
+Nest sites near elevated riverbanks and mangrove roots
+
+4. Environment, Distribution & Population
+Habitat:
+Mangrove forests
+River deltas
+Swamps and floodplains
+Dense jungle river systems
+
+Terrain Preference:
+Shallow water zones
+Mud banks
+Mangrove root networks
+Narrow river channels
+Dense shoreline vegetation
+
+Geographic Range:
+Core Range (primary population zone):
+Mekong Delta
+Sundarbans
+Borneo
+Secondary Range:
+Coastal floodplains of Southeast Asia
+River systems of Thailand, Myanmar, Indonesia
+
+Range Characteristics:
+Strongly water-bound distribution
+Follows river systems and coastlines
+Dense but patchy populations
+Absent in dry interiors and open plains
+
+Estimated Effective Range Size:
+~220,000–360,000 km²
+Population Density:
+~1 individual per 60–140 km²
+
+Climate Tolerance:
+20°C to 38°C
+High humidity tolerance
+Excellent swimmer
+
+5. Movement & Activity
+Activity Pattern:
+Primarily crepuscular
+Strongly nocturnal in dense jungle
+Activity peaks during tidal shifts and dusk
+
+Movement & Performance
+Top Speed (land):
+40–52 km/h
+Swim Speed:
+18–26 km/h (burst)
+Acceleration:
+Extremely high from stationary ambush
+Endurance:
+Low on land, moderate in water-assisted movement
+
+Mobility Style:
+Ambush-based
+Silent submerged approach
+Explosive lunges
+Excellent lateral movement in water
+Tight turning radius in dense terrain
+
+6. Feeding Ecology
+Diet:
+~70% medium–large prey
+~20% aquatic prey
+~10% scavenging
+
+Feeding Behavior:
+Ambushes at water edges
+Drags prey into water or mud
+Targets isolated or crossing animals
+Occasionally caches prey submerged
+
+7. Behavior & Social Structure
+Temperament:
+Highly aggressive within territory
+Extremely patient and calculated
+Social Structure:
+Solitary
+
+Territorial Behavior:
+Territory size: 70–160 km²
+Focused along waterways
+Marking:
+Water disturbance
+Scent traces
+Substrate scoring
+Intruders:
+Avoided if strong
+Attacked if vulnerable
+
+8. Hunting Strategy
+Style:
+Ambush + interception hybrid
+
+Attack Sequence:
+Detection
+Submerged approach
+Positioning
+Explosion (lunge)
+Drag / disable
+Kill
+
+9. Sensory Systems
+Electroreception:
+Enhanced in water environments
+Vibration Detection:
+Sensitive to both ground and water movement
+Vision:
+Adapted for low light and murky water
+Hearing:
+Specialized for low-frequency detection
+
+10. Weaponry & Bite Mechanics
+Primary Weapons
+Scythe-like forelimbs (75–105 cm)
+Blade orientation: downward-facing, moderately forward-curved
+Function: hooking, gripping, cleaving, tendon severing
+Strike profile: short, high-speed controlled cuts optimized for water and confined spaces
+Serration: coarser spacing for grip on wet and scaled surfaces
+
+Secondary Weapons:
+Bite force: 11,000–15,000 N
+
+Bite Mechanics:
+Wide gape
+Grip-and-tear specialization
+Improved hold in wet/slippery conditions
+Serrated teeth optimized for tearing rather than crushing
+
+11. Defense, Injury & Healing
+Armor Level:
+Medium (slightly thicker than Namib variant)
+Evasion:
+Medium
+Special Defenses:
+Water maneuverability
+Resistance to rotational forces (anti-roll adaptation)
+High infection resistance (humid environment adaptation)
+
+Injury & Healing:
+Rapid clotting
+Moderate regeneration
+Severe limb damage reduces hunting ability significantly
+
+12. Internal Anatomy
+Skeleton:
+Reinforced cartilage
+Musculature:
+Dense core and lateral muscle groups
+Cardiovascular System:
+Burst-focused with efficient oxygen usage
+Respiratory System:
+Enhanced lung capacity for semi-aquatic function
+
+13. Body Features
+Tail:
+2.0–2.4 m
+Thicker, partially finned
+Primary propulsion in water
+
+Limbs:
+Shorter, more robust
+Slight webbing for swimming
+High traction in mud
+
+Head:
+Hammerhead-like extensions (50–80 cm span)
+Reduced for tight environments
+Functions:
+Electroreception
+Directional sensing in water
+Close-range spatial awareness
+
+Skin:
+Placoid scales
+Smoother, more hydrodynamic
+Matte, algae/dark-green-brown mottling
+Slight mucus-like coating for water flow and infection resistance
+
+Special Adaptations:
+Electroreception optimized for aquatic use
+Water–land transition mobility
+Improved grip in wet environments
+
+14. Ecology
+Ecological Role:
+Apex semi-aquatic predator
+Controls shoreline and riverine prey populations
+
+Competition:
+Saltwater Crocodile
+Tiger
+Large constrictor snakes
+
+Threats:
+Adults: minimal, except major crocodilians
+Juveniles: vulnerable to large predators
+Other risks:
+Starvation
+Injury
+Territorial conflict
+
+15. Unique Mechanic
+“Shoreline Hunter”
+Advantages:
+Dominates water–land boundaries
+Ambush efficiency extremely high
+Can drag prey into water
+Trade-offs:
+Reduced long-distance pursuit
+Less effective in open terrain
+
+16. Weaknesses
+Relies heavily on proximity to water
+Lower endurance on land
+Outmatched by crocodilians in deep water
+Reduced performance in open terrain
+Less effective against highly mobile prey in dry environments
+1. Basic Identity
+Name: Ridge Skarne
+Also known as: Landshark
+
+In other languages:
+es: Falcífero de las crestas
+fr: Falcifère des crêtes
+it: Falcifero delle creste
+de: Kammscharne 
+
+Scientific Name: Terrapiscis falcarius
+Etymology:
+Skarne derives from a Proto-Germanic/Norse root, likely related to skarn / skar / skera (to cut, tear, or wound), referencing the species’ scythe-like forelimbs and cutting attack style. The suffix -e reflects later linguistic smoothing into a standardized common name form. 
+Terra (land) + piscis (fish) → “land fish”
+Falcarius (scythe-bearing) → refers to the bladed forelimbs
+Kingdom: Animalia
+Phylum: Chordata
+Class: Chondromorpha (cartilaginous-derived terrestrial vertebrates)
+Order: Terrapisciformes (land-adapted shark analogues)
+Family: Falcariidae (blade-limbed pursuit predators)
+Type: Carnivore
+Role: Apex pursuit predator (precision hunter)
+
+2. Size & Build
+Height (upright):
+2.8–3.2 m (male: 2.5–2.9 m)
+Height (combat stance):
+~2.1–2.4 m (male: ~1.9–2.2 m)
+Length (total):
+5.5–6.2 m (male: 5.0–5.6 m)
+Weight:
+650–950 kg (male: 520–780 kg)
+Body Type:
+Slim, streamlined predator
+Narrow torso, thin but strong neck
+Long limbs with elastic, efficient musculature
+Reduced bulk → optimized for speed
+Posture:
+Fully bipedal
+Forward-leaning, low-drag stance
+
+3. Growth, Reproduction & Life Cycle
+Life Stages
+Stage
+Age Range
+Height
+Length
+Weight
+Hatchling
+0–1 y
+0.4–0.6 m
+1.0–1.4 m
+8–18 kg
+Juvenile
+1–4 y
+0.8–1.4 m
+1.8–3.0 m
+35–130 kg
+Subadult
+4–8 y
+1.6–2.3 m
+3.4–4.8 m
+200–520 kg
+Young Adult
+8–12 y
+2.3–2.8 m (male: 2.1–2.5 m)
+4.8–5.5 m (male: 4.4–5.0 m)
+500–820 kg (male: 420–650 kg)
+Prime Adult
+12–25 y
+2.8–3.2 m (male: 2.5–2.9 m)
+5.5–6.2 m (male: 5.0–5.6 m)
+650–950 kg (male: 520–780 kg)
+Late Adult
+25–40 y
+2.7–3.1 m (male: 2.4–2.8 m)
+5.4–6.0 m (male: 4.9–5.5 m)
+600–900 kg (male: 480–740 kg)
+Old / Legendary
+40–50 y
+2.5–3.0 m (male: 2.2–2.7 m)
+5.1–5.8 m (male: 4.7–5.3 m)
+500–800 kg (male: 400–650 kg)
+Reproductive Traits:
+Sexual maturity: ~8–12 years
+Peak reproductive output: ~12–25 years
+Females remain larger and heavier on average
+Older individuals become less explosive and less enduring, even if still dangerous due to experience
+4. Environment, Distribution & Population
+
+Habitat:
+Mountain ranges, rocky highlands, alpine forests, steep valleys
+Mountain–canyon transition zones and escarpment systems
+Terrain Preference:
+Cliffs
+Ridges
+Scree slopes
+Uneven ground
+Canyon systems and escarpments
+Geographic Range:
+Core Range (primary population zone):
+Central–southern Rocky Mountains
+Includes:
+Front Range
+Wind River Range
+San Juan Mountains
+Sangre de Cristo Mountains
+Secondary Range (lower density extension):
+Colorado Plateau
+Mogollon Rim
+Canyonlands and desert mountain systems of:
+Utah
+Arizona
+New Mexico
+Southern Extension (fragmented populations):
+Northern Sierra Madre Occidental
+Isolated high-relief desert mountain ranges and escarpments
+Range Characteristics:
+Terrain-dependent distribution (follows broken landscapes, not latitude)
+Continuous along ridge systems and mountain corridors
+Fragmented in desert and peripheral regions
+Absent in flat plains and dense lowland forests
+Estimated Effective Range Size:
+~390,000–466,000 km²
+Population Density:
+~1 individual per 80–150 km²
+Climate Tolerance:
+−15°C to 30°C
+Optimal performance in moderate, mid-elevation climates
+High metabolism supports cold resilience
+Avoids extreme cold zones and persistent deep snow
+
+5. Movement & Activity
+Activity Pattern:
+Primarily crepuscular
+Nocturnal under pressure
+More diurnal in colder climates
+
+Movement & Performance
+Top Speed:
+55–65 km/h
+Acceleration:
+0 → 40 km/h in ~3 seconds
+Endurance:
+25–30 km/h sustained for 10–15 minutes
+Mobility Style:
+Long-stride runner
+4–6 m forward leap, 2–3 m vertical
+Extreme stability on uneven terrain
+Vestigial arm fins assist balance and steering
+
+6. Feeding Ecology
+Diet:
+~85% large prey (80–800 kg)
+~10% small animals
+~5% scavenging
+Feeding Behavior:
+Prefers fresh kills
+Feeds starting at abdomen/organs
+Rarely caches food
+May abandon kills under threat
+
+7. Behavior & Social Structure
+Temperament:
+Highly aggressive
+Highly territorial
+Social Structure:
+Solitary
+
+Territorial Behavior
+Territory size: 50–120 km²
+Marking:
+8. Ground scoring
+9. Scent traces
+10. Vibrational signaling
+Intruders:
+Avoided if weak
+Attacked if persistent
+
+Communication
+Low-frequency ground vibrations
+Body posture and fin display
+Occasional deep rumbles
+
+Intraspecies Combat
+Occurs over territory and mating
+Characteristics:
+Highly aggressive but controlled
+Intimidation precedes engagement
+Tactics:
+Circling and display
+Downward scythe feints and limb-targeting strikes
+Females typically dominate due to larger size
+
+8. Hunting Strategy
+Style:
+Terrain-based pursuit predator
+Attack Sequence:
+1. Detection
+2. Shadowing
+3. Initiation
+4. First Strike
+5. Control
+6. Chase
+7. Kill
+
+9. Sensory Systems
+Electroreception:
+Detects muscle activity and heartbeats at close range
+Vibration Detection:
+Highly sensitive to ground movement over long distances
+Vision:
+Forward-facing, depth-optimized
+Moderate low-light capability
+Hearing:
+Specialized for low-frequency detection
+
+10. Weaponry & Bite Mechanics
+Primary Weapons
+Scythe-like forelimbs (80–120 cm)
+Blade orientation: downward-facing
+Function: hooking, cleaving, tendon severing
+Strike profile: high-speed downward slashes and lateral hooks
+
+Secondary Weapons
+Bite force: 12,000–16,000 N
+
+Bite Mechanics
+Wide gape
+Designed for grip-and-tear
+Serrated teeth:
+Replaceable
+Flesh-slicing optimized
+
+11. Defense, Injury & Healing
+Armor Level:
+Medium (placoid scales)
+Evasion:
+Medium–high
+Special Defenses:
+Directional skin reduces slashing effectiveness
+High pain tolerance
+Limb Spikes:
+Two short, thick spikes per limb (upper arms and upper legs)
+Anti-grapple function
+Inflict contact damage during close combat
+
+Injury & Healing
+Rapid clotting
+Moderate regeneration
+High infection resistance
+Severe limb damage:
+Greatly reduces hunting success
+
+12. Internal Anatomy
+Skeleton:
+Reinforced cartilage with partial ossification
+Musculature:
+Dense, especially in legs and forelimbs
+Cardiovascular System:
+High-output heart for burst + endurance
+Respiratory System:
+Efficient lungs adapted to low-oxygen environments
+
+13. Body Features
+Tail:
+2–2.5 m, muscular, balance-focused
+
+Limbs:
+Powerful legs for propulsion
+Arms specialized for weapon use
+Vestigial pectoral fins for stabilization
+
+Head:
+Hammerhead-like lateral extensions (60–90 cm span)
+Functions:
+Houses electroreceptors
+Enhances directional sensing
+Improves spatial awareness during pursuit
+
+Skin:
+Placoid scales
+Directional roughness
+Reinforced denticle zones
+Streamlined flanks for speed
+
+Special Adaptations:
+Electroreception / vibration sensing
+Rear dorsal fin (vestigial) for stability/display
+
+14. Ecology
+Ecological Role:
+Apex predator
+Controls herbivore populations
+Maintains ecosystem balance
+
+Competition:
+Competes with large predators and scavengers
+Encounters are rare but intense
+
+Threats:
+Adults: minimal natural threats
+Juveniles: vulnerable to predators
+Other risks:
+Starvation
+Injury
+Territorial conflict
+
+15. Unique Mechanic
+“Terrain Hunter”
+Advantages:
+Increased downhill speed
+Superior slope maneuverability
+Elevated ambush angles
+Trade-offs:
+Reduced effectiveness on flat terrain
+Requires space to accelerate
+
+16. Weaknesses
+Less effective in open plains
+Forelimbs vulnerable if restrained
+Requires momentum
+Wide turning radius at top speed
